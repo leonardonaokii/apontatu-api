@@ -5,6 +5,7 @@ Foi seguido o padrão DDD, com as camadas:
 - **Infrastructure**: Implementa repositórios, contexto de banco (AppDbContext) e segurança (JWT), de forma geral,
                       prover os recursos técnicos e detalhes de implementação necessários ao funcionamento da aplicação.
 
+
 ## Desafios Encontrados
 
 1. **Qual banco utilizar**:
