@@ -16,7 +16,7 @@
 3. **Documentação com o Swagger**:  
    Para facilitar a chamada de métodos, foi adicionado a documentação com o swagger, já que ao executar a api local o swagger já fica habilitado.
 
-4. **Abstraçao, Desacomplamento e Implementação futura de testes*:
+4. **Abstraçao, Desacomplamento e Implementação futura de testes**:
    Para facilitar a mudança de tecnologias, facilitar a criação de testes unitários e de integração, no futuro e trabalhar
    e estruturar as particularidades de implementaçao, forma utilizadas interfaces nas camadas de serviço e infra.
 
