@@ -26,5 +26,13 @@ Foi seguido o padrão DDD, com as camadas:
 ### Pré-requisitos
 
 - **.NET 9.0 SDK** instalado
-- **Node.js (>=16)** e **npm** ou **yarn** instalados
-- **Git** instalado
+
+
+### Para iniciar o Backend:
+  1. Fazer o clone do projeto
+  2. Abrir o terminal na pasta do projeto
+  3. Rodar o comando "dotnet restore"
+  4. Rodar o comando "dotnet build"
+  5. Rodar o comando "dotnet run"
+  6. Para ver os métodos, acesse a url: http://localhost:5148/swagger/index.html
+  7. Em seguida executar o frontend, instruções no repo: https://github.com/leonardonaokii/apontatu-web/
