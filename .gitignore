@@ -1,0 +1,84 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled DLLs
+*.dll
+
+# Compiled EXEs
+*.exe
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Package directories
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+[Dd]ebug/
+[Rr]elease/
+
+# Rider files
+.idea/
+.idea_modules/
+.idea_workspace/
+*.iml
+
+# Resharper files
+_ReSharper*
+*.DotSettings.user
+
+# Generated files
+*.generated.cs
+
+# Docker files
+docker-compose.override.yml
+.env
+
+# ASP.NET temporary files
+*.vs/
+*.sql
+*.sqlite
+App_Data/
+App_LocalResources/
+App_GlobalResources/
+App_Start/
+Properties/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# DotNet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Thumbnails
+._*
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
