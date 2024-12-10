@@ -1,4 +1,5 @@
-**Estrutura DDD:**
+## Estrutura:
+Foi seguido o padrão DDD, com as camadas:
 - **Domain**: Contém as entidades e os services, separa a regra de negócio e entidade de negócio do resto do sistema.
 - **Application**: Orquestra a chamada entre infraestrutura e o domínio da aplicação.
 - **Infrastructure**: Implementa repositórios, contexto de banco (AppDbContext) e segurança (JWT), de forma geral,
